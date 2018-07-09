@@ -10,3 +10,5 @@ Violet
 Purple
 Maroon
 White
+Cream
+Dark Green
