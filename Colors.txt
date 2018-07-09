@@ -12,3 +12,5 @@ Maroon
 White
 Black
 Cyan
+Cream
+Dark Green
