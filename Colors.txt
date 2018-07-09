@@ -10,5 +10,7 @@ Violet
 Purple
 Maroon
 White
+Black
+Cyan
 Cream
 Dark Green
