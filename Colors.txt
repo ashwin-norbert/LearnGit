@@ -8,3 +8,4 @@ Orange
 Pink
 Violet
 Purple
+Maroon
